@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Day 7 – Calculator</h1>
+<h1 align="center" id="title">Day 7 – Weather_CLI_App</h1>
 
 <p id="description">A simple and user-friendly command-line weather app built with Python. It fetches real-time weather data for any city using the OpenWeatherMap API.</p>
 
